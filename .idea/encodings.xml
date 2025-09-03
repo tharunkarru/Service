@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ApiGateway/ApiGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CouldConfigServer/CouldConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DepartmentService (1)/DepartmentService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServiceRegistry (1)/ServiceRegistry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StudentService (1)/StudentService/src/main/java" charset="UTF-8" />
+  </component>
+</project>
